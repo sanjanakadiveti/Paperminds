@@ -1,0 +1,32 @@
+.button {
+	-fx-font-family: "Serif";
+    -fx-font-size: 16px;
+    -fx-padding: 5;
+    -fx-background-color: #cd5c5c;
+    -fx-text-fill: azure;
+}
+.list-view {
+    -fx-background-image: url("indianTwo.jpg");
+}
+.list-cell {
+    -fx-font-family: fantasy;
+    -fx-font-size: 14;
+    -fx-background-color: transparent;
+    -fx-text-fill: azure;
+}
+.list-cell:hover {
+    -fx-opacity: 0.5;
+    -fx-background-color: #E1AA0F;
+    -fx-scale-y: 1.1;
+}
+.text-area .content {
+    -fx-background-image: url("parchment.jpg");
+    -fx-text-fill: orange;
+    -fx-font: 16px "Serif";
+    -fx-font-family: monospace;
+    -fx-font-size: 20;
+}
+
+.hbox {
+    -fx-background-image: url("indianYellow.jpg");
+}
